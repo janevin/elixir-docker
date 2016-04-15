@@ -1,5 +1,5 @@
 FROM centos:centos7
-MAINTAINER Steve Kluck "kevinliuca@gmail.com"
+MAINTAINER Kevin Liu "kevinliuca@gmail.com"
 
 ENV LANG en_US.UTF-8
 ENV LANGUAGE en_US:en
